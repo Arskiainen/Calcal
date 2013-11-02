@@ -4,5 +4,7 @@
     <string name="app_name">Calcal</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="btn_log">Logging</string>
+    <string name="btn_rmd">Reminders</string>
 
 </resources>
